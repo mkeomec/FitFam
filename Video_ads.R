@@ -8,15 +8,15 @@ video_data <- read.csv(choose.files(default = "", caption = "Select Video ads da
 static_data <- read.csv(choose.files(default = "", caption = "Select static ads data",multi = FALSE, filters = Filters, index = nrow(Filters)))
 
 # Calculate conversion rates. Conversion / reach
-video_conv_rate <- sum(video_data$Website.Conversions, na.rm = TRUE)/sum(video_data$Reach, na.rm=TRUE)
-static_conv_rate <- sum(static_data$Website.Conversions, na.rm = TRUE)/sum(static_data$Reach, na.rm=TRUE)
+video_conv_rate <- sum(video_data$Website.Purchases, na.rm = TRUE)/sum(video_data$Reach, na.rm=TRUE)
+static_conv_rate <- sum(static_data$Website.Purchases, na.rm = TRUE)/sum(static_data$Reach, na.rm=TRUE)
 conv_rate <- c(video_conv_rate,static_conv_rate)
 
 # Calculate mean cost per conversion
-video_cost_conv <- mean(video_data$Cost.per.Website.Conversion..USD., na.rm=TRUE)
-static_cost_conv <- mean(static_data$Cost.per.Website.Conversion..USD., na.rm=TRUE) 
+video_cost_conv <- mean(video_data$Cost.per.Website.Purchase..USD., na.rm=TRUE)
+static_cost_conv <- mean(static_data$Cost.per.Website.Purchase..USD., na.rm=TRUE) 
 cost_conv <- c(video_cost_conv,static_cost_conv)
 
 #plot conversion rates
-barplot(conv_rate, main='Conversions: Video vs static',names.arg=c('Video','Static'))
-barplot(cost_conv, main='Cost per conversion: Video vs static',names.arg=c('Video','Static'))
+barplot(conv_rate, main='Purchases/reach: Video vs static',names.arg=c('Video','Static'))
+barplot(cost_conv, main='Cost per Purchase: Video vs static',names.arg=c('Video','Static'))
