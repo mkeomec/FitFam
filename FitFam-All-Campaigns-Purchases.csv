@@ -1,0 +1,342 @@
+Reporting Starts,Reporting Ends,Campaign Name,Age,Delivery,Results,Result Indicator,Reach,Cost per Results,Amount Spent (USD),Impressions,"CPM (Cost per 1,000 Impressions) (USD)",Website Purchases,Cost per Website Purchase (USD)
+9/20/2011,4/27/2017,Dash for Dads 2017 - Conversions,35-44,active,8,actions:offsite_conversion.fb_pixel_purchase,3893,12.95625,103.65,8726,11.87829475,8,12.95625
+9/20/2011,4/27/2017,Dash for Dads 2017 - Conversions,25-34,active,7,actions:offsite_conversion.fb_pixel_purchase,1973,7.028571429,49.2,4547,10.82032109,7,7.028571429
+9/20/2011,4/27/2017,Dash for Dads 2017 - Conversions,45-54,active,5,actions:offsite_conversion.fb_pixel_purchase,2995,18.97,94.85,6288,15.08428753,5,18.97
+9/20/2011,4/27/2017,Bacon Blitz 2017 - Conversions,45-54,active,4,actions:offsite_conversion.fb_pixel_purchase,4476,17.68,70.72,5732,12.33775297,4,17.68
+9/20/2011,4/27/2017,Bacon Blitz 2017 - Conversions,35-44,active,4,actions:offsite_conversion.fb_pixel_purchase,6642,22.1075,88.43,9008,9.816829485,4,22.1075
+9/20/2011,4/27/2017,Bacon Blitz 2017 - Conversions,25-34,active,3,actions:offsite_conversion.fb_pixel_purchase,4503,17.4,52.2,5765,9.054640069,3,17.4
+9/20/2011,4/27/2017,Bacon Blitz 2017 - Conversions,55-64,active,,,225,,4.77,338,14.11242604,,
+9/20/2011,4/27/2017,Dash for Dads 2017 - Conversions,55-64,active,,,172,,6.92,400,17.3,,
+9/20/2011,4/27/2017,Miles for Moms 2017 - Website Conversions,45-54,active,34,actions:offsite_conversion.fb_pixel_purchase,6619,6.576176471,223.59,17102,13.07390948,34,6.576176471
+9/20/2011,4/27/2017,Miles for Moms 2017 - Website Conversions,35-44,active,28,actions:offsite_conversion.fb_pixel_purchase,9849,9.770714286,273.58,27314,10.01610896,28,9.770714286
+9/20/2011,4/27/2017,Miles for Moms 2017 - Website Conversions,25-34,active,14,actions:offsite_conversion.fb_pixel_purchase,8725,12.11857143,169.66,22666,7.485220154,14,12.11857143
+9/20/2011,4/27/2017,Miles for Moms 2017 - Website Conversions,18-24,active,,,550,,6.66,902,7.383592018,,
+9/20/2011,4/27/2017,Miles for Moms 2017 - Website Conversions,55-64,active,,,399,,15,964,15.56016598,,
+9/20/2011,4/27/2017,Pi Day 5K 2017 - Website Conversions,35-44,inactive,405,actions:offsite_conversion.fb_pixel_purchase,137820,9.581012346,3880.31,353911,10.96408419,405,9.581012346
+9/20/2011,4/27/2017,Pi Day 5K 2017 - Website Conversions,45-54,inactive,332,actions:offsite_conversion.fb_pixel_purchase,97439,10.54385542,3500.56,249289,14.04217595,332,10.54385542
+9/20/2011,4/27/2017,Pi Day 5K 2017 - Website Conversions,25-34,inactive,284,actions:offsite_conversion.fb_pixel_purchase,111943,9.300809859,2641.43,254353,10.38489815,284,9.300809859
+9/20/2011,4/27/2017,Love Earth Run 2017 - Website Conversions,45-54,inactive,140,actions:offsite_conversion.fb_pixel_purchase,26515,11.64385714,1630.14,105100,15.51037108,140,11.64385714
+9/20/2011,4/27/2017,Love Earth Run 2017 - Website Conversions,35-44,inactive,111,actions:offsite_conversion.fb_pixel_purchase,38063,15.0181982,1667.02,144272,11.55470223,111,15.0181982
+9/20/2011,4/27/2017,Pi Day 5K 2017 - Website Conversions,55-64,inactive,78,actions:offsite_conversion.fb_pixel_purchase,30989,14.12730769,1101.93,67277,16.37900025,78,14.12730769
+9/20/2011,4/27/2017,Love Earth Run 2017 - Website Conversions,25-34,inactive,69,actions:offsite_conversion.fb_pixel_purchase,25205,13.52637681,933.32,92943,10.04185361,69,13.52637681
+9/20/2011,4/27/2017,Pi Day 5K 2017 - Website Conversions,18-24,inactive,30,actions:offsite_conversion.fb_pixel_purchase,13993,7.976333333,239.29,25378,9.429033021,30,7.976333333
+9/20/2011,4/27/2017,Love Earth Run 2017 - Website Conversions,55-64,inactive,5,actions:offsite_conversion.fb_pixel_purchase,1821,24.138,120.69,6639,18.17894261,5,24.138
+9/20/2011,4/27/2017,Pi Day 5K 2017 - Website Conversions,65+,inactive,,,0,,0.01,2,5,,
+9/20/2011,4/27/2017,Love Earth Run 2017 - Website Conversions,18-24,inactive,,,96,,3.75,206,18.2038835,,
+9/20/2011,4/27/2017,"Post: ""Can you smell what FitFam is cookin'? The Pi Day...""",35-44,completed,11,actions:post_engagement,243,0.81,8.91,448,19.88839286,6,1.485
+9/20/2011,4/27/2017,"Post: ""Can you smell what FitFam is cookin'? The Pi Day...""",45-54,completed,22,actions:post_engagement,156,0.322727273,7.1,285,24.9122807,3,2.366666667
+9/20/2011,4/27/2017,"Post: ""Can you smell what FitFam is cookin'? The Pi Day...""",25-34,completed,21,actions:post_engagement,201,0.25,5.25,372,14.11290323,2,2.625
+9/20/2011,4/27/2017,"Post: ""Can you smell what FitFam is cookin'? The Pi Day...""",65+,completed,8,actions:post_engagement,22,0.135,1.08,48,22.5,1,1.08
+9/20/2011,4/27/2017,"Post: ""Can you smell what FitFam is cookin'? The Pi Day...""",18-24,completed,1,actions:post_engagement,18,0.39,0.39,36,10.83333333,,
+9/20/2011,4/27/2017,"Post: ""Can you smell what FitFam is cookin'? The Pi Day...""",55-64,completed,4,actions:post_engagement,54,0.5675,2.27,105,21.61904762,,
+9/20/2011,4/27/2017,Sweetheart Run 2017 - Website Conversions,35-44,inactive,165,actions:offsite_conversion.fb_pixel_purchase,42820,9.193333333,1516.9,140323,10.81005965,165,9.193333333
+9/20/2011,4/27/2017,Sweetheart Run 2017 - Website Conversions,45-54,inactive,143,actions:offsite_conversion.fb_pixel_purchase,31339,10.99797203,1572.71,103570,15.18499566,143,10.99797203
+9/20/2011,4/27/2017,FitFam Challenge 2017 - Website Conversions,45-54,inactive,103,actions:offsite_conversion.fb_pixel_purchase,25212,12.03543689,1239.65,80753,15.35113247,103,12.03543689
+9/20/2011,4/27/2017,FitFam Challenge 2017 - Website Conversions,35-44,inactive,94,actions:offsite_conversion.fb_pixel_purchase,33382,11.89414894,1118.05,105694,10.57817852,94,11.89414894
+9/20/2011,4/27/2017,Sweetheart Run 2017 - Website Conversions,25-34,inactive,87,actions:offsite_conversion.fb_pixel_purchase,25135,8.028275862,698.46,78340,8.915751851,87,8.028275862
+9/20/2011,4/27/2017,FitFam Challenge 2017 - Website Conversions,25-34,inactive,76,actions:offsite_conversion.fb_pixel_purchase,18226,6.276052632,476.98,57346,8.317581,76,6.276052632
+9/20/2011,4/27/2017,Sweetheart Run 2017 - Website Conversions,55-64,inactive,71,actions:offsite_conversion.fb_pixel_purchase,13175,11.33140845,804.53,40367,19.93038868,71,11.33140845
+9/20/2011,4/27/2017,FitFam Challenge 2017 - Website Conversions,55-64,inactive,37,actions:offsite_conversion.fb_pixel_purchase,10392,17.65648649,653.29,32103,20.34981154,37,17.65648649
+9/20/2011,4/27/2017,Sweetheart Run 2017 - Website Conversions,18-24,inactive,8,actions:offsite_conversion.fb_pixel_purchase,2654,8.59375,68.75,7948,8.649974836,8,8.59375
+9/20/2011,4/27/2017,FitFam Challenge 2017 - Website Conversions,18-24,inactive,3,actions:offsite_conversion.fb_pixel_purchase,2014,13.64,40.92,5259,7.780946948,3,13.64
+9/20/2011,4/27/2017,"Post: ""Our next event, the CoffeeTime Run is set to...""",25-34,inactive,68,actions:post_engagement,552,0.046617647,3.17,553,5.732368897,12,0.264166667
+9/20/2011,4/27/2017,"Post: ""Our next event, the CoffeeTime Run is set to...""",45-54,inactive,48,actions:post_engagement,347,0.053541667,2.57,352,7.301136364,1,2.57
+9/20/2011,4/27/2017,"Post: ""Our next event, the CoffeeTime Run is set to...""",18-24,inactive,3,actions:post_engagement,124,0.236666667,0.71,126,5.634920635,,
+9/20/2011,4/27/2017,"Post: ""Our next event, the CoffeeTime Run is set to...""",35-44,inactive,70,actions:post_engagement,658,0.061428571,4.3,667,6.446776612,,
+9/20/2011,4/27/2017,"Post: ""Our next event, the CoffeeTime Run is set to...""",55-64,inactive,15,actions:post_engagement,101,0.050666667,0.76,102,7.450980392,,
+9/20/2011,4/27/2017,"Post: ""Our next event, the CoffeeTime Run is set to...""",65+,inactive,2,actions:post_engagement,22,0.085,0.17,24,7.083333333,,
+9/20/2011,4/27/2017,Elfie Run 2016 - Website conversions #1,35-44,inactive,419,actions:offsite_conversion.fb_pixel_purchase,111680,6.856062053,2872.69,353874,8.117832901,419,6.856062053
+9/20/2011,4/27/2017,Elfie Run 2016 - Website conversions #1,45-54,inactive,381,actions:offsite_conversion.fb_pixel_purchase,78784,7.623333333,2904.49,252183,11.51739015,381,7.623333333
+9/20/2011,4/27/2017,Elfie Run 2016 - Website conversions #1,25-34,inactive,184,actions:offsite_conversion.fb_pixel_purchase,65472,6.944782609,1277.84,188191,6.790122801,184,6.944782609
+9/20/2011,4/27/2017,Elfie Run 2016 - Website conversions #1,55-64,inactive,177,actions:offsite_conversion.fb_pixel_purchase,28608,7.811355932,1382.61,90138,15.33881382,177,7.811355932
+9/20/2011,4/27/2017,Elfie Run 2016 - Website conversions #1,18-24,inactive,13,actions:offsite_conversion.fb_pixel_purchase,5952,8.008461538,104.11,16638,6.257362664,13,8.008461538
+9/20/2011,4/27/2017,"Post: ""Behold... Our next medal, shipping by mail to...""",25-34,inactive,33,actions:post_engagement,473,0.157575758,5.2,520,10,2,2.6
+9/20/2011,4/27/2017,"Post: ""Behold... Our next medal, shipping by mail to...""",18-24,inactive,4,actions:post_engagement,70,0.1425,0.57,77,7.402597403,1,0.57
+9/20/2011,4/27/2017,"Post: ""Behold... Our next medal, shipping by mail to...""",35-44,inactive,40,actions:post_engagement,670,0.215,8.6,725,11.86206897,1,8.6
+9/20/2011,4/27/2017,"Post: ""Behold... Our next medal, shipping by mail to...""",55-64,inactive,12,actions:post_engagement,137,0.243333333,2.92,151,19.33774834,1,2.92
+9/20/2011,4/27/2017,"Post: ""Behold... Our next medal, shipping by mail to...""",45-54,inactive,21,actions:post_engagement,425,0.323809524,6.8,470,14.46808511,1,6.8
+9/20/2011,4/27/2017,Elfie Run 2016 - Website conversions #1,65+,inactive,,,0,,0,1,0,,
+9/20/2011,4/27/2017,"Post: ""Behold... Our next medal, shipping by mail to...""",65+,inactive,9,actions:post_engagement,57,0.1,0.9,60,15,,
+9/20/2011,4/27/2017,"Post: ""In honor of National Coffee Day, check out this...""",18-24,inactive,30,actions:video_view,78,0.014,0.42,78,5.384615385,,
+9/20/2011,4/27/2017,"Post: ""In honor of National Coffee Day, check out this...""",25-34,inactive,351,actions:video_view,1041,0.018034188,6.33,1060,5.971698113,,
+9/20/2011,4/27/2017,"Post: ""In honor of National Coffee Day, check out this...""",35-44,inactive,473,actions:video_view,1382,0.018879493,8.93,1410,6.333333333,,
+9/20/2011,4/27/2017,"Post: ""In honor of National Coffee Day, check out this...""",45-54,inactive,282,actions:video_view,733,0.018652482,5.26,755,6.966887417,,
+9/20/2011,4/27/2017,"Post: ""In honor of National Coffee Day, check out this...""",65+,inactive,51,actions:video_view,130,0.020196078,1.03,133,7.744360902,,
+9/20/2011,4/27/2017,"Post: ""In honor of National Coffee Day, check out this...""",55-64,inactive,166,actions:video_view,361,0.018253012,3.03,367,8.25613079,,
+9/20/2011,4/27/2017,CoffeeTime Run 2016 - Website Conversions #1,35-44,inactive,574,actions:offsite_conversion.fb_pixel_purchase,178301,7.324634146,4204.34,521516,8.061766082,574,7.324634146
+9/20/2011,4/27/2017,CoffeeTime Run 2016 - Website Conversions #1,45-54,inactive,421,actions:offsite_conversion.fb_pixel_purchase,112382,8.973135392,3777.69,328993,11.48258474,421,8.973135392
+9/20/2011,4/27/2017,CoffeeTime Run 2016 - Website Conversions #1,25-34,inactive,343,actions:offsite_conversion.fb_pixel_purchase,120318,6.874314869,2357.89,349071,6.754757628,343,6.874314869
+9/20/2011,4/27/2017,CoffeeTime Run 2016 - Website Conversions #1,55-64,inactive,203,actions:offsite_conversion.fb_pixel_purchase,35071,8.094039409,1643.09,107511,15.2829943,203,8.094039409
+9/20/2011,4/27/2017,CoffeeTime Run 2016 - Website Conversions #1,18-24,inactive,36,actions:offsite_conversion.fb_pixel_purchase,12928,6.725,242.1,40683,5.950888578,36,6.725
+9/20/2011,4/27/2017,CoffeeTime Run 2016 - Website Conversions #1,65+,inactive,,,0,,0.01,3,3.333333333,,
+9/20/2011,4/27/2017,"Offer: Buy 3 registrations, get 20% OFF!!",18-24,inactive,,,223,,0,224,0,,
+9/20/2011,4/27/2017,"Offer: Buy 3 registrations, get 20% OFF!!",65+,inactive,3,actions:link_click,312,1.68,5.04,316,15.94936709,,
+9/20/2011,4/27/2017,"Offer: Buy 3 registrations, get 20% OFF!!",55-64,inactive,3,actions:link_click,397,2.076666667,6.23,404,15.42079208,,
+9/20/2011,4/27/2017,"Offer: Buy 3 registrations, get 20% OFF!!",45-54,inactive,2,actions:link_click,494,1.645,3.29,501,6.566866267,,
+9/20/2011,4/27/2017,"Offer: Buy 3 registrations, get 20% OFF!!",25-34,inactive,1,actions:link_click,616,3.48,3.48,636,5.471698113,,
+9/20/2011,4/27/2017,"Offer: Buy 3 registrations, get 20% OFF!!",35-44,inactive,2,actions:link_click,657,0.98,1.96,668,2.934131737,,
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #3,35-44,inactive,111,actions:offsite_conversion.fb_pixel_purchase,64882,11.01369369,1222.52,145418,8.406937243,111,11.01369369
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #3,45-54,inactive,71,actions:offsite_conversion.fb_pixel_purchase,35704,13.09028169,929.41,78578,11.82786531,71,13.09028169
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #3,25-34,inactive,45,actions:offsite_conversion.fb_pixel_purchase,39319,13.39466667,602.76,83004,7.261818708,45,13.39466667
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #3,65+,inactive,21,actions:offsite_conversion.fb_pixel_purchase,2016,3.969047619,83.35,5261,15.84299563,21,3.969047619
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #3,55-64,inactive,11,actions:offsite_conversion.fb_pixel_purchase,11134,33.70909091,370.8,22882,16.2048772,11,33.70909091
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #3,18-24,inactive,5,actions:offsite_conversion.fb_pixel_purchase,2751,8.2,41,5829,7.033796535,5,8.2
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #2,25-34,inactive,7,actions:offsite_conversion.fb_pixel_purchase,4340,6.21,43.47,6237,6.96969697,7,6.21
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #2,35-44,inactive,4,actions:offsite_conversion.fb_pixel_purchase,3512,10.5975,42.39,5284,8.022331567,4,10.5975
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #2,35-44,inactive,1,actions:offsite_conversion.fb_pixel_purchase,1418,27.53,27.53,2642,10.42013626,1,27.53
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #2,55-64,inactive,1,actions:offsite_conversion.fb_pixel_purchase,640,10.2,10.2,939,10.86261981,1,10.2
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #2,55-64,inactive,1,actions:offsite_conversion.fb_pixel_purchase,608,17.28,17.28,877,19.70353478,1,17.28
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #2,45-54,inactive,1,actions:offsite_conversion.fb_pixel_purchase,1844,27.79,27.79,2659,10.45129748,1,27.79
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #2,25-34,inactive,,,872,,13.88,1661,8.3564118,,
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #2,65+,inactive,,,279,,8.12,378,21.48148148,,
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #2,45-54,inactive,,,1238,,29.87,2180,13.70183486,,
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #2,65+,inactive,,,188,,2.7,337,8.011869436,,
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #2,18-24,inactive,,,53,,0.62,70,8.857142857,,
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #1,35-44,inactive,20,actions:offsite_conversion.fb_pixel_purchase,6304,7.7885,155.77,17131,9.09287257,20,7.7885
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #1,45-54,inactive,19,actions:offsite_conversion.fb_pixel_purchase,3424,5.419473684,102.97,9550,10.78219895,19,5.419473684
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #1,25-34,inactive,16,actions:offsite_conversion.fb_pixel_purchase,6252,7.445,119.12,15193,7.84045284,16,7.445
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #1,65+,inactive,4,actions:offsite_conversion.fb_pixel_purchase,504,3.285,13.14,1719,7.643979058,4,3.285
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #1,55-64,inactive,1,actions:offsite_conversion.fb_pixel_purchase,1280,40.18,40.18,3892,10.32374101,1,40.18
+9/20/2011,4/27/2017,Emoji Run 2016 - Website Conversions #1,18-24,inactive,,,584,,6.27,724,8.660220994,,
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #1,25-34,inactive,21,actions:offsite_conversion.fb_pixel_purchase,8280,6.593333333,138.46,16629,8.326417704,21,6.593333333
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #1,35-44,inactive,18,actions:offsite_conversion.fb_pixel_purchase,7656,9.44,169.92,17039,9.972416222,18,9.44
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #1,45-54,inactive,11,actions:offsite_conversion.fb_pixel_purchase,4560,11.39363636,125.33,10540,11.89089184,11,11.39363636
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions,45-54,inactive,6,actions:offsite_conversion.fb_pixel_purchase,1488,4.933333333,29.6,1778,16.64791901,6,4.933333333
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions,35-44,inactive,3,actions:offsite_conversion.fb_pixel_purchase,2104,11.55666667,34.67,2630,13.18250951,3,11.55666667
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #1,55-64,inactive,3,actions:offsite_conversion.fb_pixel_purchase,1816,16.83333333,50.5,4217,11.97533792,3,16.83333333
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions,25-34,inactive,2,actions:offsite_conversion.fb_pixel_purchase,1430,9.32,18.64,1829,10.1913614,2,9.32
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions,55-64,inactive,1,actions:offsite_conversion.fb_pixel_purchase,650,12.84,12.84,791,16.23261694,1,12.84
+9/20/2011,4/27/2017,Challenge Dash 2016 - Website Conversions #1,65+,inactive,1,actions:offsite_conversion.fb_pixel_purchase,648,15.79,15.79,1594,9.905897114,1,15.79
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions,65+,inactive,,,214,,4.25,275,15.45454545,,
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions #1,35-44,inactive,3,actions:offsite_conversion.fb_pixel_purchase,505,2.226666667,6.68,602,11.09634551,3,2.226666667
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions #1,25-34,inactive,2,actions:offsite_conversion.fb_pixel_purchase,627,2.99,5.98,743,8.048452221,2,2.99
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions #1,45-54,inactive,,,281,,3.98,359,11.08635097,,
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions #1,55-64,inactive,,,117,,1.81,158,11.4556962,,
+9/20/2011,4/27/2017,Americana Run 2016 - Conversions #1,65+,inactive,,,73,,0.75,84,8.928571429,,
+9/20/2011,4/27/2017,Americana Run 2016 - Memorial Day,45-54,inactive,7,actions:offsite_conversion.fb_pixel_purchase,2668,7.277142857,50.94,3361,15.15620351,7,7.277142857
+9/20/2011,4/27/2017,Americana Run 2016 - Memorial Day,35-44,inactive,4,actions:offsite_conversion.fb_pixel_purchase,4524,16.795,67.18,5879,11.42711345,4,16.795
+9/20/2011,4/27/2017,Americana Run 2016 - Memorial Day,55-64,inactive,2,actions:offsite_conversion.fb_pixel_purchase,1064,12.295,24.59,1409,17.45209368,2,12.295
+9/20/2011,4/27/2017,Americana Run 2016 - Memorial Day,25-34,inactive,2,actions:offsite_conversion.fb_pixel_purchase,4020,24.17,48.34,5108,9.463586531,2,24.17
+9/20/2011,4/27/2017,Amer_logo_swag,45-54,inactive,2,actions:link_click,179,0.985,1.97,186,10.59139785,,
+9/20/2011,4/27/2017,Amer_logo_swag,35-44,inactive,2,actions:link_click,349,2.16,4.32,364,11.86813187,,
+9/20/2011,4/27/2017,Amer_logo_swag,65+,inactive,,,31,,0,33,0,,
+9/20/2011,4/27/2017,Amer_logo_swag,55-64,inactive,2,actions:link_click,69,2.445,4.89,71,68.87323944,,
+9/20/2011,4/27/2017,Americana Run 2016 - Memorial Day,65+,inactive,,,400,,8.95,554,16.15523466,,
+9/20/2011,4/27/2017,Amer_logo_swag,25-34,inactive,2,actions:link_click,494,3.7,7.4,513,14.42495127,,
+9/20/2011,4/27/2017,TPR 2016 - 10% Off Female,35-44,inactive,1,actions:offsite_conversion.fb_pixel_purchase,1491,17.08,17.08,1523,11.21470781,1,17.08
+9/20/2011,4/27/2017,TPR 2016 - 10% Off Female,25-34,inactive,,,3197,,30.19,3244,9.306411837,,
+9/20/2011,4/27/2017,TPR 2016 - 10% Off,25-34,inactive,8,actions:offsite_conversion.fb_pixel_purchase,1924,2.5375,20.3,2809,7.226771093,8,2.5375
+9/20/2011,4/27/2017,TPR 2016 - 10% Off,45-54,inactive,4,actions:offsite_conversion.fb_pixel_purchase,1952,7.565,30.26,2702,11.19911177,4,7.565
+9/20/2011,4/27/2017,TPR 2016 - 10% Off,35-44,inactive,4,actions:offsite_conversion.fb_pixel_purchase,2580,7.6625,30.65,3756,8.16027689,4,7.6625
+9/20/2011,4/27/2017,TPR 2016 - 10% Off,55-64,inactive,2,actions:offsite_conversion.fb_pixel_purchase,887,6.88,13.76,1245,11.05220884,2,6.88
+9/20/2011,4/27/2017,TPR 2016 - 10% Off,65+,inactive,,,308,,4.97,436,11.39908257,,
+9/20/2011,4/27/2017,TPR 2016 - Special,18-24,inactive,,,25,,0.06,28,2.142857143,,
+9/20/2011,4/27/2017,TPR 2016 - Special,45-54,inactive,,,74,,0.18,79,2.278481013,,
+9/20/2011,4/27/2017,TPR 2016 - Special,35-44,inactive,,,141,,0.44,150,2.933333333,,
+9/20/2011,4/27/2017,TPR 2016 - Special,25-34,inactive,,,242,,0.62,267,2.322097378,,
+9/20/2011,4/27/2017,The Puppy Run - Weekend Only,18-24,inactive,,,591,,4.94,675,7.318518519,1,4.94
+9/20/2011,4/27/2017,The Puppy Run - Weekend Only,25-34,inactive,,,1533,,22.06,1938,11.38286894,,
+9/20/2011,4/27/2017,The Puppy Run - Weekend Only,35-44,inactive,,,202,,3,266,11.27819549,,
+9/20/2011,4/27/2017,The Puppy Run April 2016,35-44,inactive,245,actions:offsite_conversion.custom.1066514856764951,5490,0.423795918,103.83,15467,6.713001875,3,34.61
+9/20/2011,4/27/2017,The Puppy Run April 2016,25-34,inactive,157,actions:offsite_conversion.custom.1066514856764951,4415,0.421464968,66.17,10795,6.129689671,1,66.17
+9/20/2011,4/27/2017,"Post: ""Happy #NationalPuppyDay! Save 20% off our next...""",18-24,inactive,1,actions:post_engagement,270,0.66,0.66,279,2.365591398,,
+9/20/2011,4/27/2017,"Post: ""Happy #NationalPuppyDay! Save 20% off our next...""",25-34,inactive,35,actions:post_engagement,1092,0.161142857,5.64,1250,4.512,,
+9/20/2011,4/27/2017,"Post: ""Happy #NationalPuppyDay! Save 20% off our next...""",35-44,inactive,29,actions:post_engagement,1093,0.231724138,6.72,1275,5.270588235,,
+9/20/2011,4/27/2017,"Post: ""Happy #NationalPuppyDay! Save 20% off our next...""",65+,inactive,4,actions:post_engagement,122,0.29,1.16,136,8.529411765,,
+9/20/2011,4/27/2017,"Post: ""Happy #NationalPuppyDay! Save 20% off our next...""",55-64,inactive,8,actions:post_engagement,221,0.175,1.4,252,5.555555556,,
+9/20/2011,4/27/2017,"Post: ""Happy #NationalPuppyDay! Save 20% off our next...""",45-54,inactive,19,actions:post_engagement,642,0.232631579,4.42,732,6.038251366,,
+9/20/2011,4/27/2017,pi5k.com - Website Conversions,18-24,inactive,,,220,,1.38,226,6.10619469,,
+9/20/2011,4/27/2017,pi5k.com - Website Conversions,25-34,inactive,,,504,,5.76,576,10,,
+9/20/2011,4/27/2017,pi5k.com - Website Conversions,35-44,inactive,1,actions:offsite_conversion.registration,952,11.98,11.98,1087,11.02115915,,
+9/20/2011,4/27/2017,pi5k.com - Website Conversions,45-54,inactive,,,632,,10.26,716,14.32960894,,
+9/20/2011,4/27/2017,pi5k.com - Website Conversions,65+,inactive,,,107,,2.28,128,17.8125,,
+9/20/2011,4/27/2017,pi5k.com - Website Conversions,55-64,inactive,,,210,,4.25,244,17.41803279,,
+9/20/2011,4/27/2017,thefitfamchallenge.com - Website Conversions,45-54,inactive,1,actions:offsite_conversion.fb_pixel_purchase,766,14.89,14.89,963,15.46209761,1,14.89
+9/20/2011,4/27/2017,thefitfamchallenge.com - Website Conversions,35-44,inactive,,,1670,,28.9,2168,13.3302583,,
+9/20/2011,4/27/2017,thefitfamchallenge.com - Website Conversions,25-34,inactive,,,495,,7.47,608,12.28618421,,
+9/20/2011,4/27/2017,"Post: ""It's time to celebrate #NationalDogDay!!
+
+Signup...""",25-34,inactive,,,4,,0.03,4,7.5,,
+9/20/2011,4/27/2017,"Post: ""It's time to celebrate #NationalDogDay!!
+
+Signup...""",35-44,inactive,,,13,,0.06,13,4.615384615,,
+9/20/2011,4/27/2017,"Post: ""It's time to celebrate #NationalDogDay!!
+
+Signup...""",65+,inactive,,,2,,0.01,2,5,,
+9/20/2011,4/27/2017,"Post: ""It's time to celebrate #NationalDogDay!!
+
+Signup...""",55-64,inactive,,,1,,0,1,0,,
+9/20/2011,4/27/2017,"Post: ""It's time to celebrate #NationalDogDay!!
+
+Signup...""",45-54,inactive,,,5,,0.03,5,6,,
+9/20/2011,4/27/2017,thepuppyrun.com - golden smile,25-34,inactive,17,actions:link_click,852,0.29,4.93,917,5.376226827,,
+9/20/2011,4/27/2017,thepuppyrun.com - golden smile,35-44,inactive,33,actions:link_click,1270,0.272727273,9,1364,6.598240469,,
+9/20/2011,4/27/2017,thepuppyrun.com - golden smile,45-54,inactive,43,actions:link_click,1104,0.22744186,9.78,1156,8.460207612,,
+9/20/2011,4/27/2017,thepuppyrun.com - golden smile,55-64,inactive,4,actions:link_click,142,0.2925,1.17,148,7.905405405,,
+9/20/2011,4/27/2017,"Post: ""We're down to our last 200 registrations for The...""",25-34,inactive,,,82,,0.33,82,4.024390244,,
+9/20/2011,4/27/2017,"Post: ""We're down to our last 200 registrations for The...""",45-54,inactive,2,actions:post_engagement,125,0.375,0.75,125,6,,
+9/20/2011,4/27/2017,"Post: ""We're down to our last 200 registrations for The...""",35-44,inactive,4,actions:post_engagement,154,0.1875,0.75,154,4.87012987,,
+9/20/2011,4/27/2017,"Post: ""We're down to our last 200 registrations for The...""",55-64,inactive,,,19,,0.11,19,5.789473684,,
+9/20/2011,4/27/2017,"Post: ""Totally ""dig"" the medal design for The Puppy Run?...""",25-34,inactive,1,actions:post_engagement,113,0.34,0.34,113,3.008849558,,
+9/20/2011,4/27/2017,"Post: ""Totally ""dig"" the medal design for The Puppy Run?...""",55-64,inactive,,,12,,0.04,12,3.333333333,,
+9/20/2011,4/27/2017,"Post: ""Totally ""dig"" the medal design for The Puppy Run?...""",45-54,inactive,2,actions:post_engagement,136,0.315,0.63,136,4.632352941,,
+9/20/2011,4/27/2017,"Post: ""Totally ""dig"" the medal design for The Puppy Run?...""",35-44,inactive,2,actions:post_engagement,178,0.36,0.72,179,4.022346369,,
+9/20/2011,4/27/2017,"Post: ""Announcing our latest feature... Newly-designed...""",25-34,inactive,1,actions:post_engagement,671,2.02,2.02,675,2.992592593,,
+9/20/2011,4/27/2017,"Post: ""Announcing our latest feature... Newly-designed...""",35-44,inactive,12,actions:post_engagement,471,0.168333333,2.02,476,4.243697479,,
+9/20/2011,4/27/2017,"Post: ""Announcing our latest feature... Newly-designed...""",45-54,inactive,3,actions:post_engagement,191,0.303333333,0.91,192,4.739583333,,
+9/20/2011,4/27/2017,"Post: ""Announcing our latest feature... Newly-designed...""",55-64,inactive,,,10,,0.05,10,5,,
+9/20/2011,4/27/2017,Gametiime - Page Likes,18-24,inactive,79,actions:like,1994,0.411518987,32.51,2523,12.88545382,,
+9/20/2011,4/27/2017,Gametiime - Page Likes,55-64,inactive,78,actions:like,1530,0.468846154,36.57,2676,13.66591928,,
+9/20/2011,4/27/2017,Gametiime - Page Likes,45-54,inactive,403,actions:like,6597,0.330769231,133.3,11827,11.270821,,
+9/20/2011,4/27/2017,Gametiime - Page Likes,35-44,inactive,667,actions:like,13644,0.355517241,237.13,23102,10.26447927,,
+9/20/2011,4/27/2017,Gametiime - Page Likes,25-34,inactive,475,actions:like,9755,0.361705263,171.81,15910,10.79886864,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has been featured in GeekWire's Startup...""",13-17,inactive,1,actions:post_engagement,376,1,1,440,2.272727273,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has been featured in GeekWire's Startup...""",18-24,inactive,50,actions:post_engagement,3074,0.1428,7.14,3403,2.098148692,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has been featured in GeekWire's Startup...""",65+,inactive,3,actions:post_engagement,318,0.673333333,2.02,318,6.352201258,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has been featured in GeekWire's Startup...""",55-64,inactive,,,271,,2.78,376,7.393617021,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has been featured in GeekWire's Startup...""",45-54,inactive,22,actions:post_engagement,830,0.305909091,6.73,1106,6.084990958,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has been featured in GeekWire's Startup...""",25-34,inactive,166,actions:post_engagement,4152,0.101144578,16.79,4842,3.467575382,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has been featured in GeekWire's Startup...""",35-44,inactive,148,actions:post_engagement,2120,0.091486486,13.54,2826,4.791224345,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has launched nationwide!...""",13-17,inactive,,,116,,0.44,116,3.793103448,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has launched nationwide!...""",25-34,inactive,56,actions:post_engagement,1581,0.122142857,6.84,1605,4.261682243,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has launched nationwide!...""",18-24,inactive,19,actions:post_engagement,961,0.150526316,2.86,968,2.954545455,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has launched nationwide!...""",35-44,inactive,30,actions:post_engagement,892,0.168333333,5.05,911,5.543358946,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has launched nationwide!...""",45-54,inactive,24,actions:post_engagement,366,0.119166667,2.86,370,7.72972973,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has launched nationwide!...""",65+,inactive,1,actions:post_engagement,126,0.85,0.85,129,6.589147287,,
+9/20/2011,4/27/2017,"Post: ""Gametiime has launched nationwide!...""",55-64,inactive,2,actions:post_engagement,133,0.55,1.1,133,8.270676692,,
+9/20/2011,4/27/2017,"Post: ""Gametiime expansion continues...
+
+We're launching...""",25-34,inactive,,,4545,,8.82,4545,1.940594059,,
+9/20/2011,4/27/2017,"Post: ""What was your best #running memory of 2013 and...""",13-17,inactive,,,64,,0.07,64,1.09375,,
+9/20/2011,4/27/2017,"Post: ""Gametiime expansion continues...
+
+We're launching...""",55-64,inactive,,,21,,0.08,22,3.636363636,,
+9/20/2011,4/27/2017,"Post: ""Gametiime expansion continues...
+
+We're launching...""",45-54,inactive,,,548,,2.62,557,4.703770197,,
+9/20/2011,4/27/2017,"Post: ""Gametiime expansion continues...
+
+We're launching...""",35-44,inactive,,,1474,,3.48,1475,2.359322034,,
+9/20/2011,4/27/2017,"Post: ""What was your best #running memory of 2013 and...""",18-24,inactive,,,525,,0.68,527,1.290322581,,
+9/20/2011,4/27/2017,"Post: ""What was your best #running memory of 2013 and...""",25-34,inactive,,,740,,1.74,747,2.329317269,,
+9/20/2011,4/27/2017,"Post: ""What was your best #running memory of 2013 and...""",65+,inactive,,,28,,0.19,29,6.551724138,,
+9/20/2011,4/27/2017,"Post: ""What was your best #running memory of 2013 and...""",55-64,inactive,,,34,,0.22,36,6.111111111,,
+9/20/2011,4/27/2017,"Post: ""What was your best #running memory of 2013 and...""",45-54,inactive,,,117,,0.51,118,4.322033898,,
+9/20/2011,4/27/2017,"Post: ""What was your best #running memory of 2013 and...""",35-44,inactive,,,360,,1.59,362,4.392265193,,
+9/20/2011,4/27/2017,"Post: ""Our community rocks.
+
+Here is a post by one of...""",25-34,inactive,,,6650,,22.22,6708,3.312462731,,
+9/20/2011,4/27/2017,"Post: ""Our community rocks.
+
+Here is a post by one of...""",35-44,inactive,,,1694,,5.93,1712,3.463785047,,
+9/20/2011,4/27/2017,"Post: ""Our community rocks.
+
+Here is a post by one of...""",45-54,inactive,,,474,,1.72,480,3.583333333,,
+9/20/2011,4/27/2017,"Post: ""Our community rocks.
+
+Here is a post by one of...""",55-64,inactive,,,28,,0.13,31,4.193548387,,
+9/20/2011,4/27/2017,Gametiime-Post Engagement-US-25-55,18-24,inactive,,,1,,0,1,0,,
+9/20/2011,4/27/2017,Gametiime-Post Engagement-US-25-55,55-64,inactive,,,40,,0.48,53,9.056603774,,
+9/20/2011,4/27/2017,Gametiime-Post Engagement-US-25-55,45-54,inactive,,,746,,9.43,1067,8.837863168,,
+9/20/2011,4/27/2017,Gametiime-Post Engagement-US-25-55,35-44,inactive,,,1738,,18.37,2328,7.890893471,,
+9/20/2011,4/27/2017,Gametiime-Post Engagement-US-25-55,25-34,inactive,,,1861,,16.72,2279,7.336551119,,
+9/20/2011,4/27/2017,"Post: ""Big news! Our launch to California has arrived!...""",13-17,inactive,,,39,,0.1,39,2.564102564,,
+9/20/2011,4/27/2017,"Post: ""Big news! Our launch to California has arrived!...""",18-24,inactive,,,495,,1.45,501,2.894211577,,
+9/20/2011,4/27/2017,"Post: ""Big news! Our launch to California has arrived!...""",65+,inactive,,,61,,0.37,62,5.967741935,,
+9/20/2011,4/27/2017,"Post: ""Big news! Our launch to California has arrived!...""",55-64,inactive,,,99,,0.53,100,5.3,,
+9/20/2011,4/27/2017,"Post: ""Big news! Our launch to California has arrived!...""",45-54,inactive,,,242,,1.52,243,6.255144033,,
+9/20/2011,4/27/2017,"Post: ""Big news! Our launch to California has arrived!...""",25-34,inactive,,,749,,3.2,762,4.199475066,,
+9/20/2011,4/27/2017,"Post: ""Big news! Our launch to California has arrived!...""",35-44,inactive,,,518,,2.83,531,5.329566855,,
+9/20/2011,4/27/2017,"Post: ""Say hello to our latest feature!
+
+Find a race,...""",13-17,inactive,,,94,,0.18,94,1.914893617,,
+9/20/2011,4/27/2017,"Post: ""Say hello to our latest feature!
+
+Find a race,...""",25-34,inactive,,,1499,,4.49,1516,2.961741425,,
+9/20/2011,4/27/2017,"Post: ""Say hello to our latest feature!
+
+Find a race,...""",18-24,inactive,,,1552,,3.12,1557,2.003853565,,
+9/20/2011,4/27/2017,"Post: ""Say hello to our latest feature!
+
+Find a race,...""",35-44,inactive,,,862,,3.36,871,3.857634902,,
+9/20/2011,4/27/2017,"Post: ""Say hello to our latest feature!
+
+Find a race,...""",45-54,inactive,,,421,,1.99,426,4.671361502,,
+9/20/2011,4/27/2017,"Post: ""Say hello to our latest feature!
+
+Find a race,...""",65+,inactive,,,136,,0.84,138,6.086956522,,
+9/20/2011,4/27/2017,"Post: ""Say hello to our latest feature!
+
+Find a race,...""",55-64,inactive,,,178,,1.02,180,5.666666667,,
+9/20/2011,4/27/2017,"Post: ""Veteran's Day is almost upon us. Check out these...""",13-17,inactive,,,35,,0.08,35,2.285714286,,
+9/20/2011,4/27/2017,"Post: ""Veteran's Day is almost upon us. Check out these...""",55-64,inactive,,,65,,0.46,65,7.076923077,,
+9/20/2011,4/27/2017,"Post: ""Veteran's Day is almost upon us. Check out these...""",45-54,inactive,,,137,,0.78,138,5.652173913,,
+9/20/2011,4/27/2017,"Post: ""Veteran's Day is almost upon us. Check out these...""",35-44,inactive,,,260,,1.18,265,4.452830189,,
+9/20/2011,4/27/2017,"Post: ""Veteran's Day is almost upon us. Check out these...""",18-24,inactive,,,173,,0.55,173,3.179190751,,
+9/20/2011,4/27/2017,"Post: ""Veteran's Day is almost upon us. Check out these...""",25-34,inactive,,,381,,1.65,380,4.342105263,,
+9/20/2011,4/27/2017,"Post: ""Veteran's Day is almost upon us. Check out these...""",65+,inactive,,,44,,0.3,45,6.666666667,,
+9/20/2011,4/27/2017,"Promoting ""Triathletes & swimmers!
+
+Gametiime & SwimovateUSA...""",18-24,inactive,,,52,,0.28,53,5.283018868,,
+9/20/2011,4/27/2017,"Promoting ""Triathletes & swimmers!
+
+Gametiime & SwimovateUSA...""",65+,inactive,,,10,,0.11,10,11,,
+9/20/2011,4/27/2017,"Promoting ""Triathletes & swimmers!
+
+Gametiime & SwimovateUSA...""",55-64,inactive,,,14,,0.12,15,8,,
+9/20/2011,4/27/2017,"Promoting ""Triathletes & swimmers!
+
+Gametiime & SwimovateUSA...""",45-54,inactive,,,162,,0.97,163,5.950920245,,
+9/20/2011,4/27/2017,"Promoting ""Triathletes & swimmers!
+
+Gametiime & SwimovateUSA...""",25-34,inactive,,,2147,,7.48,2159,3.464566929,,
+9/20/2011,4/27/2017,"Promoting ""Triathletes & swimmers!
+
+Gametiime & SwimovateUSA...""",35-44,inactive,,,1415,,6.04,1425,4.238596491,,
+9/20/2011,4/27/2017,"Promoting ""Attention runners, triathletes, and swimmers!...""",13-17,inactive,,,16,,0.05,16,3.125,,
+9/20/2011,4/27/2017,"Promoting ""Attention runners, triathletes, and swimmers!...""",25-34,inactive,,,425,,1.68,431,3.897911833,,
+9/20/2011,4/27/2017,"Promoting ""Attention runners, triathletes, and swimmers!...""",18-24,inactive,,,236,,0.66,237,2.784810127,,
+9/20/2011,4/27/2017,"Promoting ""Attention runners, triathletes, and swimmers!...""",35-44,inactive,,,258,,1.2,259,4.633204633,,
+9/20/2011,4/27/2017,"Promoting ""Attention runners, triathletes, and swimmers!...""",45-54,inactive,,,133,,0.67,134,5,,
+9/20/2011,4/27/2017,"Promoting ""Attention runners, triathletes, and swimmers!...""",65+,inactive,,,35,,0.23,36,6.388888889,,
+9/20/2011,4/27/2017,"Promoting ""Attention runners, triathletes, and swimmers!...""",55-64,inactive,,,65,,0.51,66,7.727272727,,
+9/20/2011,4/27/2017,"Promoting ""Just posted our latest #Gametiime Weekend...""",13-17,inactive,,,65,,0.19,66,2.878787879,,
+9/20/2011,4/27/2017,"Promoting ""Just posted our latest #Gametiime Weekend...""",55-64,inactive,,,163,,1.01,165,6.121212121,,
+9/20/2011,4/27/2017,"Promoting ""Just posted our latest #Gametiime Weekend...""",45-54,inactive,,,280,,1.62,281,5.765124555,,
+9/20/2011,4/27/2017,"Promoting ""Just posted our latest #Gametiime Weekend...""",35-44,inactive,,,562,,2.33,563,4.138543517,,
+9/20/2011,4/27/2017,"Promoting ""Just posted our latest #Gametiime Weekend...""",18-24,inactive,,,491,,1.59,498,3.192771084,,
+9/20/2011,4/27/2017,"Promoting ""Just posted our latest #Gametiime Weekend...""",25-34,inactive,,,686,,2.62,690,3.797101449,,
+9/20/2011,4/27/2017,"Promoting ""Just posted our latest #Gametiime Weekend...""",65+,inactive,,,104,,0.64,104,6.153846154,,
+9/20/2011,4/27/2017,"Promoting ""A big thanks to our new friends at INKnBURN for...""",13-17,inactive,,,218,,0.45,218,2.064220183,,
+9/20/2011,4/27/2017,"Promoting ""A big thanks to our new friends at INKnBURN for...""",55-64,inactive,,,405,,1.66,410,4.048780488,,
+9/20/2011,4/27/2017,"Promoting ""A big thanks to our new friends at INKnBURN for...""",65+,inactive,,,292,,0.93,292,3.184931507,,
+9/20/2011,4/27/2017,"Promoting ""A big thanks to our new friends at INKnBURN for...""",45-54,inactive,,,1068,,3.32,1098,3.023679417,,
+9/20/2011,4/27/2017,"Promoting ""A big thanks to our new friends at INKnBURN for...""",35-44,inactive,,,2362,,6.11,2495,2.448897796,,
+9/20/2011,4/27/2017,"Promoting ""A big thanks to our new friends at INKnBURN for...""",18-24,inactive,,,3480,,7.16,3637,1.968655485,,
+9/20/2011,4/27/2017,"Promoting ""A big thanks to our new friends at INKnBURN for...""",25-34,inactive,,,4571,,10.37,4716,2.198897371,,
+9/20/2011,4/27/2017,"Promoting ""... telling the stories of you, the local runners...""",18-24,inactive,,,2850,,7.34,2891,2.538913871,,
+9/20/2011,4/27/2017,"Promoting ""... telling the stories of you, the local runners...""",25-34,inactive,,,1745,,4.61,1781,2.588433464,,
+9/20/2011,4/27/2017,"Promoting ""... telling the stories of you, the local runners...""",35-44,inactive,,,915,,3.17,928,3.415948276,,
+9/20/2011,4/27/2017,"Promoting ""... telling the stories of you, the local runners...""",45-54,inactive,,,702,,4.79,742,6.455525606,,
+9/20/2011,4/27/2017,"Promoting ""... telling the stories of you, the local runners...""",55-64,inactive,,,444,,2.91,455,6.395604396,,
+9/20/2011,4/27/2017,Gametiime-Clicks-US-20-65-Summer,18-24,inactive,,,7164,,7.89,44303,0.178091777,,
+9/20/2011,4/27/2017,Gametiime-Clicks-US-20-65-Summer,65+,inactive,,,605,,1.39,5310,0.261770245,,
+9/20/2011,4/27/2017,Gametiime-Clicks-US-20-65-Summer,55-64,inactive,,,871,,1.71,5077,0.336813079,,
+9/20/2011,4/27/2017,Gametiime-Clicks-US-20-65-Summer,45-54,inactive,,,1599,,1.79,5883,0.304266531,,
+9/20/2011,4/27/2017,Gametiime-Clicks-US-20-65-Summer,25-34,inactive,,,3023,,2.28,11945,0.190874843,,
+9/20/2011,4/27/2017,Gametiime-Clicks-US-20-65-Summer,35-44,inactive,,,2295,,2.15,9628,0.223307021,,
+9/20/2011,4/27/2017,"Promoting ""It's NATIONAL RUNNING DAY! Join us in...""",13-17,inactive,,,2838,,8.54,2910,2.934707904,,
+9/20/2011,4/27/2017,"Promoting ""It's NATIONAL RUNNING DAY! Join us in...""",18-24,inactive,,,1880,,5.87,1884,3.115711253,,
+9/20/2011,4/27/2017,"Promoting ""It's NATIONAL RUNNING DAY! Join us in...""",65+,inactive,,,43,,0.25,47,5.319148936,,
+9/20/2011,4/27/2017,"Promoting ""It's NATIONAL RUNNING DAY! Join us in...""",55-64,inactive,,,37,,0.19,37,5.135135135,,
+9/20/2011,4/27/2017,"Promoting ""It's NATIONAL RUNNING DAY! Join us in...""",45-54,inactive,,,75,,0.5,87,5.747126437,,
+9/20/2011,4/27/2017,"Promoting ""It's NATIONAL RUNNING DAY! Join us in...""",25-34,inactive,,,979,,3.59,979,3.66700715,,
+9/20/2011,4/27/2017,"Promoting ""It's NATIONAL RUNNING DAY! Join us in...""",35-44,inactive,,,247,,1.06,247,4.291497976,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,13-17,inactive,,,0,,0,2,0,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,25-34,inactive,,,43440,,441.8,220046,2.007762013,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,18-24,inactive,,,22198,,127.01,122866,1.033727801,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,35-44,inactive,,,31477,,470.32,174622,2.693360516,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,45-54,inactive,,,17388,,218.49,94716,2.306790827,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,Unknown,inactive,,,0,,0.02,25,0.8,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,65+,inactive,,,3299,,40.45,20293,1.993298182,,
+9/20/2011,4/27/2017,Gametiime-Page Likes-US-22-65,55-64,inactive,,,5734,,75.74,32778,2.310696199,,
